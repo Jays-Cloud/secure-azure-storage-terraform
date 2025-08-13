@@ -55,10 +55,10 @@ This project focused on applying best practices for availability, security, and 
 *(Taken from the live Azure deployment)*
 
 - **Terraform Code & Successful Apply Output**  
-  ![Terraform Code and Apply Output](./Screenshot-Terraform-Apply.png)
+  ![Terraform Code and Apply Output](screenshots/Screenshot-Terraform-Apply.png)
 
 - **Azure Portal — Storage Account Overview**  
-  ![Storage Account Overview](./Screenshot-Storage-Account.png)
+  ![Storage Account Overview](screenshots/Screenshot-Storage-Account.png)
 
 ---
 
